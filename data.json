@@ -1,10 +1,10 @@
-{"yritys":"Tico Cafe",
+{"yritys":"Code Cafe",
  "yhteystiedot":{"osoite":"Ratapihantie 13, Helsinki",
  "puhelin":"040 404 4040",
- "email": "info@ticocafe.com"}, 
- "tuotteet":["makeat kahvileivät", "suolaiset piiraat", "erikoiskahvit"],
- "henkilokunta":[{"nimi":"Mikko Mallikas","titteli":"toimitusjohtaja"},
- {"nimi":"Anna Malli","titteli":"barista"},
- {"nimi": "Esa Merkki","titteli":"kondiittori"}
+ "email": "info@codecafe.com"}, 
+ "tuotteet":["sämpylät", "keksit", "kahvit", "virvoitusjuomat"],
+ "henkilokunta":[{"nimi":"Keijo Koodari","titteli":"toimitusjohtaja"},
+ {"nimi":"Pekka Prosessori","titteli":"barista"},
+ {"nimi": "Maija Modeemi","titteli":"kondiittori"}
  ]
  }
