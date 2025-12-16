@@ -1,9 +1,25 @@
 {
- "yhteystiedot":{"osoite":"Ratapihantie 13, Helsinki",
- 
- 
- "yhteyshenkilot":[{"nimi":"Matti Sankari","titteli":"toimitusjohtaja", "puhelin":"040 404 4040", "email": "matti@itcon.com"},
- {"nimi":"Teppo Tuoli","titteli":"Myyntipäälikkö", "puhelin":"040 404 4040", "email": "teppo@itcon.com"},
- {"nimi": "Liisa Ihme","titteli":"Vanhempi It-konsultti", "puhelin":"040 404 4040", "email": "liisa@itcon.com"}
- ]
+  "yhteystiedot": {
+    "osoite": "Ratapihantie 13, Helsinki",
+    "yhteyshenkilot": [
+      {
+        "nimi": "Matti Sankari",
+        "titteli": "Toimitusjohtaja",
+        "puhelin": "040 404 4040",
+        "email": "matti@itcon.com"
+      },
+      {
+        "nimi": "Teppo Tuoli",
+        "titteli": "Myyntipäälikkö",
+        "puhelin": "040 404 4040",
+        "email": "teppo@itcon.com"
+      },
+      {
+        "nimi": "Liisa Ihme",
+        "titteli": "Vanhempi It-konsultti",
+        "puhelin": "040 404 4040",
+        "email": "liisa@itcon.com"
+      }
+    ]
+  }
 }
